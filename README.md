@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashwini K</h1>
 
 <h3 align="center">
-💻 Data Science Enthusiast | 🌐 Web Development | 🐍 Python Developer
+💻 Data Science | 🌐 Web Development | 🐍 Python Developer
 </h3>
 
 <p align="center">
